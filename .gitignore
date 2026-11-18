@@ -1,0 +1,13 @@
+# Données : à télécharger depuis Kaggle (voir README)
+data/*.csv
+
+# Environnements Python et fichiers temporaires
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
